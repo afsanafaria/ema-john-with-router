@@ -1,0 +1,37 @@
+.product{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    border-bottom: 1px solid lightgray;
+}
+.product-name{
+    color: blue;
+}
+.details{
+    padding: 0 20px;
+}
+.details{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+.features-icon{
+    margin-top: 95px;
+    /* padding-right: 130px; */
+}
+.button{
+    margin-top: 10px;
+    border: none;
+    padding: 5px 50px;
+    background-color: gold;
+    color:black;
+    border:2px solid lightgray;
+    border-radius: 50px;
+    
+}
+.feature-list{
+    margin: 0;
+    font-size: 12px;
+    color: gray;
+}
+.far,.fas{
+    color: gold;
+}
