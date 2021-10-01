@@ -6,7 +6,7 @@ const PlaceOrder = () => {
 
     return (
         <div style={{ margin: "0 300px" }}>
-            <h2>Your order has been placed</h2>
+            <h2>Congrats!!Your order has been placed</h2>
             <img src={gif} alt="" />
         </div>
     );
